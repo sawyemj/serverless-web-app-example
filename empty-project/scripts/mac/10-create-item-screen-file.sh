@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -e
-cd ..
+cd ../../serverless-web-app-example/
 
 touch src/screens/createItem.js
 

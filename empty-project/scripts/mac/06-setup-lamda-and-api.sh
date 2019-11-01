@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
 set -e
-cd ..
+cd ../../serverless-web-app-example/
+
 awsmobile features
+awsmobile push
+
